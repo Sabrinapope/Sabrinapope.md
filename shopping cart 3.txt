@@ -1,0 +1,62 @@
+package com.company;
+import java.text.NumberFormat;
+import java.util.ArrayList;
+import java.util.Currency;
+import java.util.Scanner;
+
+import java.text.NumberFormat;
+import java.util.stream.Stream;
+
+public class Main {
+
+//This is where the program starts
+    public static void main(String[] arg) {
+
+// The user of this application will be able to view product with the Associated price to purchase
+//Create a switch for the users purchasing choice
+
+        Scanner Scanner = new Scanner(System.in);
+        System.out.println("Welcome to the Shopping cart application !");
+        System.out.println("What is your name !");
+        System.out.println("Hello my name is Sabrina!");
+        System.out.println(" We have Shirts, Pants, shoes, socks, belt ! ");
+        System.out.println("Choose [1] shirt + [2] pants + [3] shoes + [4] socks + [5] belt !");
+        String UserCalculateClothes = Scanner.nextLine();
+
+        if (true) {
+        }
+        switch {
+            String clothesItem1 = "Clothes1";
+
+            System.out.println("Clothing1 to purchase today!");
+            System.out.println("How much for the purchase of the shirt ?");
+            System.out.println("what is the price !");
+            Scanner Shirt = new Scanner(System.in);
+            System.out.println("#.00");
+            Stream<java.lang.String> lines = UserCalculateClothes.lines();
+            Boolean budgetPay = Boolean.TRUE;
+            System.out.printf("UserCalculateClothes Clothes1 !%n");
+            int ClothesItems;
+            double d = 123456.789;
+            NumberFormat numberFormat1;
+            numberFormat1 = new NumberFormat;
+            double v = 0;
+            int id[] = numberFormat1.format(v) {
+                1, 2, 3, 4, 5
+            }
+            System.out.println("USerCalculateClothes of the price of shirt, pants, shoes");
+
+        }
+        (switch);
+        Scanner scanner = new Scanner(System.in);
+        String txt = "are you ready to check out !";
+        int a = 5, b = 5, c = 5, d = 5, e = 5;
+        System.out.println("a + b + c + d + e = 25!");
+        System.out.println("the total is $ 25.00!");
+        System.out.println("Thanks for shopping and have a good day!");
+        history.back();
+        break;
+        default:
+        throw new IllegalStateException("Unexpected value: " + UserCalculateClothes);
+    }
+}

@@ -1,0 +1,35 @@
+package com.company;
+import java.util.ArrayList;
+import java.util.logging.Formatter;
+
+//Two methods - One that calculates before tax and what that calculates after tax
+
+// Represents a shopping cart as an array of items
+
+ class ShoppingCart{
+
+    ArrayList<Integer> clothing = new ArrayList<Integer> {
+    clothing.remove(5)"Shirt";
+    clothing.remove(4 )"Pants"
+    clothing.remove(3) "Socks"
+    clothing.remove(2)  "Shoes"
+    clothing.remove(1) "Belt"
+        int i = clothing{
+        System.out.println(i);
+
+
+        public double calculateTax(double amount, double price) {
+            int tax = amount + price{
+                return tax;
+
+
+                    return (calculateTax + "\t" + forEach(double, 5.00);forEach();for (price) + "\t" + calculateTax + "\t"
+                            + double.format(price*amount));
+
+
+                System.out.println("clothing.length");
+            }
+        }
+    }
+ }
+

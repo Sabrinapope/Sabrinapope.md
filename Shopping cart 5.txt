@@ -1,0 +1,44 @@
+package com.company;
+
+import java.util.ArrayList;
+
+
+//Create a item list product objects
+class clothing {
+
+
+    //todo Create a method that does the following
+    //add products to a list
+    //return that list of products
+
+}// this needs to go
+
+      class clothing1 {
+          ArrayList<String> clothing = new ArrayList<String>();
+          clothing clothing1 = new clothing1()int id; 1, String name;"Shirt", String description; "Short sleeve", String category;"Casual", int price:$ 5.00!);
+          clothing clothing2 = new clothing2()int id; 2, String name;"Pants", String description; "Blue jeans", String category;"Casual", int price:$ 5.00!);
+          clothing clothing3 = new clothing3()int id; 3, String name;"Socks", String description; "Tube socks", String category;"Casual", int price:$ 5.00!);
+          clothing clothing4 = new clothing4()int id; 4, String name;"Shoes", String description; "Gym shoes", String category; "Casual", int price:$ 5.00!);
+          clothing clothing5 = new clothing5()int id; 5, String name; "Belt", String description; "Leather belt", String category; "Casual", int price:$ 5.00!);
+
+          return clothing{
+        System.out.println("clothing1.id, + clothing1 name, + clothing1 description, + clothing1 category, + clothing price");
+        System.out.println("clothing2. id, + clothing2 name, + clothing2 description, + clothing2 category, + clothing price");
+        System.out.println("clothing3 id, + clothing3 name, + clothing3 description, + clothing3 category, + clothing price");
+        System.out.println("clothing4 id, + clothing4 name, + clothing4 description, + clothing4 category, + clothing price");
+        System.out.println("clothing5 id, + clothing5 name, + clothing5 description, + clothing5 category, + clothing price");
+    }
+
+/**
+ *
+ */
+    interface class clothingItems{
+         static int method(int x){
+              return 5 + x;
+
+         }
+
+     public static void main(String[] args) {
+          System.out.println(method(5));
+     }
+}
