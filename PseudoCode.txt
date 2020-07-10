@@ -1,0 +1,26 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // set the total  to zero
+        int x = 0;
+
+        // get list of numbers
+        int a = 5, b = 6, c = 7;
+        System.out.println("a + B + c");
+
+        // loop through each number in the list add each number to total end loop
+        String[] numbers = {"10", "20", "30", "40"};
+        System.out.println("i");
+
+        // if number more than zero print " it's positive " message, else print " its zero or less" message end if
+        int number = 0;
+        if (number > 0) {
+            System.out.println("it's positive");
+        } else {
+            System.out.println("its zero or less ");
+            String s = "end if";
+        }
+    }
+}
